@@ -10,7 +10,7 @@ black = "==18.9b0"
 
 [packages]
 sqlalchemy = "*"
-mysql-connector-python = "==8.0.5"
+mysql-connector-python = "==8.0.14"
 pandas = "*"
 progress = "*"
 
